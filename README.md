@@ -23,7 +23,7 @@ DevOps Engineer | AWS Cloud | CI/CD Automation | Infrastructure as Code | Monito
 
 🔹 Passionate about Cloud Infrastructure, Automation, Monitoring, and Platform Engineering
 
-🔹 Learning Terraform, Kubernetes, and AWS Solutions Architecture
+🔹 Learning Kubernetes, and AWS Solutions Architecture
 
 🔹 Building Cloud, DevOps, and Automation Projects
 
